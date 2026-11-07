@@ -1,0 +1,24 @@
+{
+  "name": "GlassType Beta",
+  "identifier": "org.opentype.GlassType.source.beta",
+  "sourceURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/sources/beta.json",
+  "apps": [
+    {
+      "name": "GlassType",
+      "bundleIdentifier": "org.opentype.GlassType",
+      "developerName": "GlassType",
+      "localizedDescription": "An offline iOS keyboard with English, Russian and Ukrainian layouts, local suggestions, glide typing, searchable emoji and configurable Liquid Glass styling. Beta software; installation and keyboard behavior should be tested on-device.",
+      "iconURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/assets/icon.png",
+      "beta": true,
+      "versions": [
+        {
+          "version": "1.16.34",
+          "date": "2026-11-07T12:54:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.34-b34.ipa",
+          "size": 4446659,
+          "localizedDescription": "Beta build 34. Adds refined spacebar cursor movement and includes the current keyboard, emoji, touch and language features for device testing."
+        }
+      ]
+    }
+  ]
+}
