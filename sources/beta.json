@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.39",
+          "date": "2026-11-07T14:24:51Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.39-b39.ipa",
+          "size": 4532748,
+          "localizedDescription": "Beta build 39. Refines key-row alignment, adjustable keyboard sizing, glide input and local prediction. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.34",
           "date": "2026-11-07T12:54:00Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.34-b34.ipa",
