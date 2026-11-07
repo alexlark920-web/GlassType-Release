@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.42",
+          "date": "2026-11-07T15:00:41Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.42-b42.ipa",
+          "size": 4885660,
+          "localizedDescription": "Beta build 42. Makes next-word suggestions selectable, expands the English and Russian offline lexicons to about 48,000 word forms, and adds automatic spacing after punctuation."
+        },
+        {
           "version": "1.16.39",
           "date": "2026-11-07T14:24:51Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.39-b39.ipa",
