@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.78",
+          "date": "2026-11-08T09:19:39Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.78-b78.ipa",
+          "size": 7131843,
+          "localizedDescription": "Beta build 78. Adds up to two selectable spelling suggestions when autocorrection is disabled, plus a flat add-as-typed dictionary pill. Suggestions never replace text automatically. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.76",
           "date": "2026-11-08T09:02:27Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.76-b76.ipa",
