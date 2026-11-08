@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.50",
+          "date": "2026-11-08T06:45:54Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.50-b50.ipa",
+          "size": 7091331,
+          "localizedDescription": "Beta build 50. Adds asynchronous, cancellable glide decoding with throttled touch sampling and memory-mapped lexicon support. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.46",
           "date": "2026-11-08T06:22:48Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.46-b46.ipa",
