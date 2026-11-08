@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.71",
+          "date": "2026-11-08T08:39:16Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.71-b71.ipa",
+          "size": 7126422,
+          "localizedDescription": "Beta build 71. Fixes visible soft highlighting for fast taps on edge keys and adds configurable glide-trail fade duration and thickness. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.67",
           "date": "2026-11-08T08:20:05Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.67-b67.ipa",

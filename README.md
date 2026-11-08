@@ -12,13 +12,13 @@ Or add this raw JSON URL in SideStore → Sources → Add Source:
 
 `https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/sources/beta.json`
 
-The current Beta is GlassType 1.16.67 (build 67). It adds immediate soft key-press feedback across layouts and an accelerating backspace engine. It is an unsigned test IPA; install and re-sign it through SideStore, and keep/register the keyboard extension during installation. Enable GlassType under iOS Settings → General → Keyboard.
+The current Beta is GlassType 1.16.71 (build 71). It fixes visible soft highlighting for fast taps on edge keys and adds configurable glide-trail fade duration and thickness. It is an unsigned test IPA; install and re-sign it through SideStore, and keep/register the keyboard extension during installation. Enable GlassType under iOS Settings → General → Keyboard.
 
 Beta and Stable listings use the same app bundle identifier and cannot be installed side by side. Free Apple IDs are subject to SideStore's app-ID and signing limits.
 
 ## Download
 
-[GlassType 1.16.67 (build 67) IPA](https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.67-b67.ipa)
+[GlassType 1.16.71 (build 71) IPA](https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.71-b71.ipa)
 
 ## Support
 
