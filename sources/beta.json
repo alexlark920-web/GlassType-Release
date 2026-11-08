@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.67",
+          "date": "2026-11-08T08:20:05Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.67-b67.ipa",
+          "size": 7119293,
+          "localizedDescription": "Beta build 67. Adds immediate soft key-press highlighting across all layouts, pooled key previews, and an accelerating backspace engine. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.50",
           "date": "2026-11-08T06:45:54Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.50-b50.ipa",
