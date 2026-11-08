@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.46",
+          "date": "2026-11-08T06:22:48Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.46-b46.ipa",
+          "size": 7063329,
+          "localizedDescription": "Beta build 46. Replaces eager dictionary parsing with mapped UTF-8 binary tries for English, Russian and Ukrainian. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.42",
           "date": "2026-11-07T15:00:41Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.42-b42.ipa",
