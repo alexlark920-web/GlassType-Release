@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.76",
+          "date": "2026-11-08T09:02:27Z",
+          "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.76-b76.ipa",
+          "size": 7126459,
+          "localizedDescription": "Beta build 76. Backspace deletes on touch-down, begins repeating after 300 ms, and accelerates during a hold. Haptic and visual press feedback start immediately. Unsigned IPA for SideStore testing."
+        },
+        {
           "version": "1.16.71",
           "date": "2026-11-08T08:39:16Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.71-b71.ipa",
