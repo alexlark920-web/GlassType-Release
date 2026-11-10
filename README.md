@@ -12,13 +12,13 @@ Or add this raw JSON URL in SideStore → Sources → Add Source:
 
 `https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/sources/beta.json`
 
-The current Beta is GlassType 1.16.78 (build 78). Adds selectable spelling alternatives with autocorrection disabled and a plus pill to save the exact typed word. Backspace deletes immediately and repeats after 300 ms. It is an unsigned test IPA; install and re-sign it through SideStore, and keep/register the keyboard extension during installation. Enable GlassType under iOS Settings → General → Keyboard.
+The current Beta is GlassType 1.16.80 (build 80). Updated Russian and Ukrainian layouts (ъ and ї on long-press), synchronized App Group ID and memory management improvements. It is an unsigned test IPA; install and re-sign it through SideStore, and keep/register the keyboard extension during installation. Enable GlassType under iOS Settings → General → Keyboard.
 
 Beta and Stable listings use the same app bundle identifier and cannot be installed side by side. Free Apple IDs are subject to SideStore's app-ID and signing limits.
 
 ## Download
 
-[GlassType 1.16.78 (build 78) IPA](https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.78-b78.ipa)
+[GlassType 1.16.80 (build 80) IPA](https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.80-b80.ipa)
 
 ## Support
 
