@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.95",
+          "date": "2026-11-11T12:30:32Z",
+          "downloadURL": "https://github.com/alexlark920-web/GlassType-Release/releases/download/beta-v1.16.95-b95/GlassType-beta-v1.16.95-b95.ipa",
+          "size": 7173055,
+          "localizedDescription": "- Optimize lexicon candidate ranking with a compact one-time hash index\n- Relax release-benchmark threshold to realistic CI latency while keeping warmed steady-state guard\n- Fix glide repeated-letter decoding and stabilize warmed frame latency test\n- Update macOS version in build workflow\n- Fix Swift build errors in glide lexicon and spatial key equality"
+        },
+        {
           "version": "1.16.80",
           "date": "2026-11-10T17:30:00Z",
           "downloadURL": "https://raw.githubusercontent.com/alexlark920-web/GlassType-Release/main/releases/GlassType-beta-v1.16.80-b80.ipa",
