@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.107",
+          "date": "2026-11-12T07:08:09Z",
+          "downloadURL": "https://github.com/alexlark920-web/GlassType-Release/releases/download/beta-v1.16.107-b107/GlassType-beta-v1.16.107-b107.ipa",
+          "size": 7201001,
+          "localizedDescription": "- fix(keyboard): restore settings key touch routing\n- fix(settings): call existing key width clamp\n- test(input): use a valid known-word glide trace\n- fix(input): convert number row digits to key roles\n- test(input): cover adaptive Cyrillic touch layouts"
+        },
+        {
           "version": "1.16.106",
           "date": "2026-11-12T06:38:45Z",
           "downloadURL": "https://github.com/alexlark920-web/GlassType-Release/releases/download/beta-v1.16.106-b106/GlassType-beta-v1.16.106-b106.ipa",
