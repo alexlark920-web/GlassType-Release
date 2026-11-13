@@ -12,6 +12,13 @@
       "beta": true,
       "versions": [
         {
+          "version": "1.16.111",
+          "date": "2026-11-13T05:39:14Z",
+          "downloadURL": "https://github.com/alexlark920-web/GlassType-Release/releases/download/beta-v1.16.111-b111/GlassType-beta-v1.16.111-b111.ipa",
+          "size": 7222151,
+          "localizedDescription": "- fix(core): make defaultDiagnosticsEnabled visible to the public initializer\n- Keep decoding inside the jetsam and 120 Hz budgets, with one shared tuning config.\n- Create .cursorrules\n- fix(keyboard): restore settings key touch routing\n- fix(settings): call existing key width clamp"
+        },
+        {
           "version": "1.16.107",
           "date": "2026-11-12T07:08:09Z",
           "downloadURL": "https://github.com/alexlark920-web/GlassType-Release/releases/download/beta-v1.16.107-b107/GlassType-beta-v1.16.107-b107.ipa",
